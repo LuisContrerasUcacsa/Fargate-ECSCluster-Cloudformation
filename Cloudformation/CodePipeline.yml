@@ -13,10 +13,10 @@ Parameters:
     Default: Fargate-ECSCluster-Cloudformation
   GithubBranch:
     Type: String
-    Default: <BRANCH>
+    Default: main
   GithubOAuthToken:
     Type: String
-    Default: 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
+    Default: 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
   ContainerPort:
     Type: Number
     Default: 8080
